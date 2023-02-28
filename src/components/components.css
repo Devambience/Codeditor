@@ -23,13 +23,17 @@
     font-weight: 300;
 }
 
-.dark .select{
+/* .dark .select{
     background: red !important;
     color: red !important;
-}
+} */
 
 .dark .mtk8{
     color: #E06C75;
+}
+
+.dark .mtk10{
+    color: #ABB2BF;
 }
 
 .dark .mtk7{
