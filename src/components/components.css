@@ -1,0 +1,46 @@
+.dark .margin{
+    background-color: #282C34 !important;
+}
+
+.dark .view-lines{
+    background: #282C34 !important;
+}
+
+.dark .editornavbar{
+    background-color: #151618 !important;
+}
+
+.dark .gutter.gutter-horizontal{
+    background-color: #151618 !important;
+}
+
+.dark .tabs{
+    background-color: #151618 !important;
+}
+
+.mini__text{
+    font-size: 0.9rem;
+    font-weight: 300;
+}
+
+.dark .select{
+    background: red !important;
+    color: red !important;
+}
+
+.dark .mtk8{
+    color: #E06C75;
+}
+
+.dark .mtk7{
+    color: grey;
+    font-style: italic;
+}
+
+.dark .mtk4{
+    color: #f1b174;
+}
+
+.dark .mtk5{
+    color: #98C379;
+}
